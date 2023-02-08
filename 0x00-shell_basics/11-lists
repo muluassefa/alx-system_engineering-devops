@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ../ ../boot/ | sort -k 5,5
+ls -l --color=auto ./ ../ /boot
