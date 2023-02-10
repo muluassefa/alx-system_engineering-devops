@@ -1,2 +1,1 @@
-#!/bin/bash
-telnet towel.blinkenlights.nl
+chgrp vincent,staff hello
