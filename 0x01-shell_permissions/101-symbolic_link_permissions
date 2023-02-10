@@ -1,4 +1,2 @@
 #!/bin/bash
 chown _hello:vincent staff
-[main 20d294a] m
- 1 file changed, 1 insertion(+), 1 deletion(-)
