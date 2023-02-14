@@ -1,1 +1,2 @@
 #!/bin/bash
+ibase=2;obase=10;
