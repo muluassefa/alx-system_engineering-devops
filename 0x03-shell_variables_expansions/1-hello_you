@@ -1,3 +1,2 @@
 #!/bin/bash
-user=$(id -un)
-echo "Hello $(id -un)"
+echo "Hello $(whoami)"
